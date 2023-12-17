@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh2511" alt="mukesh2511" /></a> </p>
 
-- 🔭 I’m currently working on Reactjs **JobQuest**
+- 🔭 I’m currently working on Reactjs **Social Media App**
 
-- 🌱 I’m currently learning **Reactjs, MongoDB, Nodejs**
+- 🌱 I’m a **MERN STACK DEVELOPER**
 
 - 💬 Ask me about **Reactjs, MongoDB, Nodejs**
 
